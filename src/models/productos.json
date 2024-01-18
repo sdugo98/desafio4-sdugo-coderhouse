@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Banana",
+    "description": "Fruta",
+    "price": "300",
+    "img": "",
+    "code": "abc123",
+    "stock": "30",
+    "category": "verduleria",
+    "status": true,
+    "thumbnails": [],
+    "id": 1
+  },
+  {
+    "title": "Manzana",
+    "description": "Fruta",
+    "price": "400",
+    "img": "",
+    "code": "abc124",
+    "stock": "50",
+    "category": "verduleria",
+    "status": true,
+    "thumbnails": [],
+    "id": 2
+  },
+  {
+    "title": "Melon",
+    "description": "Fruta",
+    "price": "500",
+    "img": "",
+    "code": "abc125",
+    "stock": "20",
+    "category": "verduleria",
+    "status": true,
+    "thumbnails": [],
+    "id": 3
+  },
+  {
+    "title": "Naranja",
+    "description": "Fruta",
+    "price": "200",
+    "img": "",
+    "code": "abc126",
+    "stock": "50",
+    "category": "verduleria",
+    "status": true,
+    "thumbnails": [],
+    "id": 4
+  },
+  {
+    "title": "Durazno",
+    "description": "Fruta",
+    "price": "200",
+    "img": "",
+    "code": "abc127",
+    "stock": "30",
+    "category": "verduleria",
+    "status": true,
+    "thumbnails": [],
+    "id": 5
+  },
+  {
+    "title": "Frutilla",
+    "description": "Fruta",
+    "price": "400",
+    "img": "",
+    "code": "abc128",
+    "stock": "30",
+    "category": "verduleria",
+    "status": true,
+    "thumbnails": [],
+    "id": 6
+  },
+  {
+    "title": "Ciruela",
+    "description": "Fruta",
+    "price": "400",
+    "img": "",
+    "code": "abc129",
+    "stock": "25",
+    "category": "verduleria",
+    "status": true,
+    "thumbnails": [],
+    "id": 7
+  },
+  {
+    "title": "Lechuga",
+    "description": "Verdura",
+    "price": "150",
+    "img": "",
+    "code": "abc130",
+    "stock": "40",
+    "category": "verduleria",
+    "status": true,
+    "thumbnails": [],
+    "id": 8
+  },
+  {
+    "title": "Tomate",
+    "description": "Verdura",
+    "price": "200",
+    "img": "",
+    "code": "abc131",
+    "stock": "40",
+    "category": "verduleria",
+    "status": true,
+    "thumbnails": [],
+    "id": 9
+  },
+  {
+    "title": "Anana",
+    "description": "Fruta",
+    "price": "300",
+    "img": "",
+    "code": "abc133",
+    "stock": "40",
+    "category": "verduleria",
+    "status": true,
+    "thumbnails": [],
+    "id": 10
+  }
+]
